@@ -1,0 +1,2 @@
+# algorithm
+chanyeong's algorithm
